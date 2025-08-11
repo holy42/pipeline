@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>pipeline2</groupId>
+  <artifactId>pipeline2</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>pipeline2</name>
+  <distributionManagement>
+  <repository>
+    <id>github</id>
+    <name>GitHub Packages</name>
+    <url>https://maven.pkg.github.com/holy42/pipeline</url>
+  </repository>
+</distributionManagement>
+
+</project>
